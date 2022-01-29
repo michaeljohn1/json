@@ -1,0 +1,14 @@
+[
+{
+    "quote" : "A mature society understands that at the heart of democracy is argument",
+    "name" : "Salman Rushdie"
+  },
+  {
+    "quote" : "Vertigo is the conflict between the fear of falling and the desire to fall",
+    "name" : "Salman Rushdie"
+  },
+  {
+    "quote" : "What's real and what's true aren't necessarily the same",
+    "name" : "Salman Rushdie"
+  }
+]
